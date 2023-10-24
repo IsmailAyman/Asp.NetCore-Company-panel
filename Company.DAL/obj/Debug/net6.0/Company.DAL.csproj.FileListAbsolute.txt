@@ -1,0 +1,12 @@
+H:\Programming\MVC project\Company.PL\Company.DAL\bin\Debug\net6.0\Company.DAL.deps.json
+H:\Programming\MVC project\Company.PL\Company.DAL\bin\Debug\net6.0\Company.DAL.dll
+H:\Programming\MVC project\Company.PL\Company.DAL\bin\Debug\net6.0\Company.DAL.pdb
+H:\Programming\MVC project\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.csproj.AssemblyReference.cache
+H:\Programming\MVC project\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\MVC project\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.AssemblyInfoInputs.cache
+H:\Programming\MVC project\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.AssemblyInfo.cs
+H:\Programming\MVC project\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.csproj.CoreCompileInputs.cache
+H:\Programming\MVC project\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.dll
+H:\Programming\MVC project\Company.PL\Company.DAL\obj\Debug\net6.0\refint\Company.DAL.dll
+H:\Programming\MVC project\Company.PL\Company.DAL\obj\Debug\net6.0\Company.DAL.pdb
+H:\Programming\MVC project\Company.PL\Company.DAL\obj\Debug\net6.0\ref\Company.DAL.dll

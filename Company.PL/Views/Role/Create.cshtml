@@ -1,0 +1,22 @@
+﻿@model RoleViewModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create new Role</h1>
+<br />
+<br />
+<form asp-action="Create" enctype="multipart/form-data">
+
+    <partial name="PartialViews/_CreateEditPartialView" />
+
+    <input type="submit" value="Submit" class="btn btn-primary" /> ||
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+
+</form>
+@section ValidationScriptSection
+    {
+    <partial name="_ValidationScriptsPartial" />
+}
+

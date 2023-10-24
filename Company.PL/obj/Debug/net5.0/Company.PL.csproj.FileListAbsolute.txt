@@ -1,0 +1,916 @@
+D:\Company.PL\Company.PL\bin\Debug\net5.0\appsettings.Development.json
+D:\Company.PL\Company.PL\bin\Debug\net5.0\appsettings.json
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.exe
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.deps.json
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.runtimeconfig.json
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.runtimeconfig.dev.json
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.pdb
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\netstandard.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Console.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Core.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Data.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Web.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.Views.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.Views.pdb
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Humanizer.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.BLL.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.DAL.dll
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.BLL.pdb
+D:\Company.PL\Company.PL\bin\Debug\net5.0\Company.DAL.pdb
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.csproj.AssemblyReference.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.AssemblyInfoInputs.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.AssemblyInfo.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.csproj.CoreCompileInputs.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.MvcApplicationPartsAssemblyInfo.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.MvcApplicationPartsAssemblyInfo.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorAssemblyInfo.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorAssemblyInfo.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\scopedcss\bundle\Company.PL.styles.css
+D:\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\Company.PL.StaticWebAssets.Manifest.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\Company.PL.StaticWebAssets.Pack.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\msbuild.Company.PL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\msbuild.build.Company.PL.props
+D:\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Company.PL.props
+D:\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Company.PL.props
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.TagHelpers.input.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.TagHelpers.output.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorCoreGenerate.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorTargetAssemblyInfo.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorTargetAssemblyInfo.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.Views.pdb
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.csproj.CopyComplete
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.dll
+D:\Company.PL\Company.PL\obj\Debug\net5.0\refint\Company.PL.dll
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.pdb
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.genruntimeconfig.cache
+D:\Company.PL\Company.PL\obj\Debug\net5.0\ref\Company.PL.dll
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.dll
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\refint\Company.PL.dll
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\appsettings.Development.json
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\appsettings.json
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.exe
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.deps.json
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.runtimeconfig.json
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.runtimeconfig.dev.json
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\mscorlib.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\netstandard.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.AppContext.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Buffers.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Configuration.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Console.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Core.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Data.Common.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Data.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Drawing.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Globalization.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Compression.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Linq.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Memory.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Http.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Mail.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Ping.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Requests.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Security.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Numerics.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ObjectModel.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Claims.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Principal.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.Json.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Transactions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.ValueTuple.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Web.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Windows.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\refs\WindowsBase.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.Views.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.PL.Views.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Humanizer.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.Convention.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.Hosting.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.Runtime.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.BLL.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.DAL.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.BLL.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Company.DAL.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.csproj.AssemblyReference.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.AssemblyInfoInputs.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.AssemblyInfo.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.csproj.CoreCompileInputs.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.MvcApplicationPartsAssemblyInfo.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.MvcApplicationPartsAssemblyInfo.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorAssemblyInfo.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorAssemblyInfo.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\scopedcss\bundle\Company.PL.styles.css
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\Company.PL.StaticWebAssets.Manifest.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\Company.PL.StaticWebAssets.Pack.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\msbuild.Company.PL.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\msbuild.build.Company.PL.props
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Company.PL.props
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Company.PL.props
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.TagHelpers.input.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.TagHelpers.output.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorCoreGenerate.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorTargetAssemblyInfo.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.RazorTargetAssemblyInfo.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.Views.pdb
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.csproj.CopyComplete
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Company.PL.genruntimeconfig.cache
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\ref\Company.PL.dll
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Shared\_ButtonsPartialView.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\_CreateEditPartialView.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\_DeleteDetailsPartialView.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\DeptPartialViews\_CreateEditPartialView.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Department\DeptPartialViews\_DeleteDetailsPartialView.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\AutoMapper.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+H:\Programming\MVC project\Company.PL\Company.PL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Account\CheckYourInbox.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\User\PartialViews\_CreateEditPartialView.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\User\PartialViews\_DeleteDetailsPartialView.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Role\PartialViews\_CreateEditPartialView.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Role\PartialViews\_DeleteDetailsPartialView.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Role\Details.cshtml.g.cs
+H:\Programming\MVC project\Company.PL\Company.PL\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
